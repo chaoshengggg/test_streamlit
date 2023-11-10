@@ -1,0 +1,9 @@
+altair==4.2.2
+deta==1.1.0
+matplotlib==3.5.1
+pandas==1.5.2
+python_bcrypt==0.3.2
+Requests==2.31.0
+streamlit==1.21.0
+streamlit_authenticator==0.1.5
+streamlit_lottie==0.0.3
